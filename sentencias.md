@@ -55,7 +55,7 @@ SELECT *
 FROM Client 
 WHERE fullname LIKE 'J%';
 
-![Seleccionar clientes por nombre](capturas/7ClientesNombreJ.PNG)
+![Seleccionar clientes por nombre](capturas/7clientesNombreJ.PNG)
 
 ## 8. Seleccionar clientes cuya ciudad contenga la letra 'a'
 ### Sentencia
